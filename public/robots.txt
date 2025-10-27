@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://earnq.in/sitemap.xml

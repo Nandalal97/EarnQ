@@ -1,0 +1,31 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "class": "Class-6",
+      "title": "Math Basics",
+      "thumbnail": "https://placehold.co/300x180?text=Math+6",
+      "videoPath": "videos/Birds.mp4",
+      "description": "Math for Class 6 students.",
+      "language": "English"
+    },
+    {
+      "id": 2,
+      "class": "Class-6",
+      "title": "Math Basics",
+      "thumbnail": "https://placehold.co/300x180?text=Math+6+Hindi",
+      "videoPath": "videos/Birds.mp4",
+      "description": "Class 6 math explained in Hindi.",
+      "language": "Hindi"
+    },
+    {
+      "id": 3,
+      "class": "Class-7",
+      "title": "Science Intro",
+      "thumbnail": "https://placehold.co/300x180?text=Science+7",
+      "videoPath": "videos/Transport.mp4",
+      "description": "Intro to Class 7 Science.",
+      "language": "English"
+    }
+  ]
+}

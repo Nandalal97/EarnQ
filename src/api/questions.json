@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "correctAnswer": "Delhi"
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Venus", "Mars", "Jupiter"],
+    "correctAnswer": "Mars"
+  },
+  {
+    "id": 3,
+    "question": "What is the largest mammal?",
+    "options": ["Elephant", "Blue Whale", "Shark", "Hippopotamus"],
+    "correctAnswer": "Blue Whale"
+  },
+  {
+    "id": 4,
+    "question": "What is the largest city?",
+    "options": ["kolkata", "bangaluru", "Mumbai", "pune"],
+    "correctAnswer": "Mumbai"
+  },
+ {
+  "id": 5,
+  "question": "What is the financial capital of India?",
+  "options": ["Kolkata", "Bengaluru", "Mumbai", "Pune"],
+  "correctAnswer": "Pune"
+}
+
+]

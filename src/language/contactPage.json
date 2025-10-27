@@ -1,0 +1,122 @@
+{
+    "en":{
+        "contactTitle":"Get in Touch",
+        "contactText":"Please fill out the form on this page with your name, email, and message. The more details you provide, the better we can assist you.",
+        "contactName":"Full Name",
+        "contactEmail":"Email",
+        "contactNumber":"Number",
+        "contactSubject":"Subject",
+        "contactMessage":"Message",
+        "contactText2":"We’d love to hear from you! Whether you have a question, feedback, or need support, feel free to reach out using the options below.",
+        "contactButton":"Send Message",
+        "conatctMailText":"Reach us at contact@earnq.in. We aim to respond within 24–48 hours."
+    },
+    "hi": {
+    "contactTitle": "संपर्क करें",
+    "contactText": "कृपया इस पेज पर अपना नाम, ईमेल और संदेश भरें। आप जितना अधिक विवरण देंगे, हम उतनी बेहतर सहायता कर पाएंगे।",
+    "contactName": "पूरा नाम",
+    "contactEmail": "ईमेल",
+    "contactNumber": "नंबर",
+    "contactSubject": "विषय",
+    "contactMessage": "संदेश",
+    "contactText2": "हम आपसे सुनना पसंद करेंगे! यदि आपके पास कोई सवाल, प्रतिक्रिया या सहायता की आवश्यकता है, तो नीचे दिए गए विकल्पों का उपयोग करके संपर्क करें।",
+    "contactButton": "संदेश भेजें",
+    "conatctMailText": "हमसे contact@earnq.in पर संपर्क करें। हम 24–48 घंटे के भीतर उत्तर देने का प्रयास करते हैं।"
+  },
+  "bn": {
+    "contactTitle": "যোগাযোগ করুন",
+    "contactText": "অনুগ্রহ করে আপনার নাম, ইমেইল এবং বার্তা সহ এই পৃষ্ঠার ফর্মটি পূরণ করুন। আপনি যত বেশি তথ্য দেবেন, আমরা তত ভালোভাবে সাহায্য করতে পারব।",
+    "contactName": "সম্পূর্ণ নাম",
+    "contactEmail": "ইমেইল",
+    "contactNumber": "ফোন নম্বর",
+    "contactSubject": "বিষয়",
+    "contactMessage": "বার্তা",
+    "contactText2": "আমরা আপনার কাছ থেকে শুনতে আগ্রহী! আপনার যদি কোনও প্রশ্ন, মতামত বা সাহায্যের প্রয়োজন হয়, তাহলে নিচের বিকল্পগুলি ব্যবহার করে যোগাযোগ করুন।",
+    "contactButton": "বার্তা পাঠান",
+    "conatctMailText": "আমাদের contact@earnq.in এ লিখুন। আমরা ২৪–৪৮ ঘণ্টার মধ্যে উত্তর দেওয়ার চেষ্টা করি।"
+  },
+  "mr": {
+    "contactTitle": "संपर्क करा",
+    "contactText": "कृपया या पृष्ठावरील फॉर्ममध्ये आपले नाव, ईमेल आणि संदेश भरावा. आपण जास्त माहिती दिल्यास, आम्ही चांगल्या प्रकारे मदत करू शकतो.",
+    "contactName": "पूर्ण नाव",
+    "contactEmail": "ईमेल",
+    "contactNumber": "नंबर",
+    "contactSubject": "विषय",
+    "contactMessage": "संदेश",
+    "contactText2": "आपण आमच्याशी संपर्क साधल्यास आम्हाला आनंद होईल! आपल्याकडे काही प्रश्न, अभिप्राय किंवा मदतीची गरज असल्यास, खालील पर्याय वापरून संपर्क करा.",
+    "contactButton": "संदेश पाठवा",
+    "conatctMailText": "आमच्याशी contact@earnq.in वर संपर्क साधा. आम्ही २४–४८ तासांत उत्तर देण्याचा प्रयत्न करतो."
+  },
+  "pa": {
+    "contactTitle": "ਸੰਪਰਕ ਕਰੋ",
+    "contactText": "ਕਿਰਪਾ ਕਰਕੇ ਇਸ ਸਫੇ ਉੱਤੇ ਆਪਣਾ ਨਾਮ, ਈਮੇਲ ਤੇ ਸੁਨੇਹਾ ਭਰੋ। ਜਿੰਨਾ ਵਧੇਰੇ ਵੇਰਵਾ ਤੁਸੀਂ ਦਿਓਗੇ, ਅਸੀਂ ਉਤਨੀ ਚੰਗੀ ਸਹਾਇਤਾ ਕਰ ਸਕਾਂਗੇ।",
+    "contactName": "ਪੂਰਾ ਨਾਮ",
+    "contactEmail": "ਈਮੇਲ",
+    "contactNumber": "ਨੰਬਰ",
+    "contactSubject": "ਵਿਸ਼ਾ",
+    "contactMessage": "ਸੁਨੇਹਾ",
+    "contactText2": "ਸਾਡੇ ਲਈ ਤੁਹਾਡੇ ਕੋਲੋਂ ਸੁਣਨਾ ਮਹੱਤਵਪੂਰਨ ਹੈ! ਜੇਕਰ ਤੁਹਾਨੂੰ ਕੋਈ ਸਵਾਲ, ਫੀਡਬੈਕ ਜਾਂ ਮਦਦ ਚਾਹੀਦੀ ਹੋਵੇ, ਤਾਂ ਹੇਠਾਂ ਦਿੱਤੇ ਵਿਕਲਪਾਂ ਰਾਹੀਂ ਸੰਪਰਕ ਕਰੋ।",
+    "contactButton": "ਸੁਨੇਹਾ ਭੇਜੋ",
+    "conatctMailText": "ਸਾਨੂੰ contact@earnq.in ਉੱਤੇ ਸੰਪਰਕ ਕਰੋ। ਅਸੀਂ 24–48 ਘੰਟਿਆਂ ਵਿੱਚ ਜਵਾਬ ਦੇਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰਦੇ ਹਾਂ।"
+  },
+  "gu": {
+    "contactTitle": "સંપર્ક કરો",
+    "contactText": "કૃપા કરીને આ પેજ પર તમારું નામ, ઈમેલ અને સંદેશ ભરવો. વધુ વિગતો આપશો તો અમે વધુ સારી રીતે મદદ કરી શકીશું.",
+    "contactName": "પૂરું નામ",
+    "contactEmail": "ઈમેલ",
+    "contactNumber": "નમ્બર",
+    "contactSubject": "વિષય",
+    "contactMessage": "સંદેશ",
+    "contactText2": "અમે તમારું મંતવ્ય સાંભળવા ઇચ્છીએ છીએ! જો તમારું કોઈ પ્રશ્ન, પ્રતિસાદ કે સહાયની જરૂર હોય, તો નીચેના વિકલ્પો દ્વારા અમારો સંપર્ક કરો.",
+    "contactButton": "સંદેશ મોકલો",
+    "conatctMailText": "અમને contact@earnq.in પર સંપર્ક કરો. અમે 24–48 કલાકમાં જવાબ આપવાનો પ્રયાસ કરીએ છીએ."
+  },
+  "ta": {
+    "contactTitle": "தொடர்பு கொள்ளுங்கள்",
+    "contactText": "இந்தப் பக்கத்தில் உங்கள் பெயர், மின்னஞ்சல், மற்றும் செய்தியை நிரப்பவும். நீங்கள் அதிக விபரங்களை வழங்கினால், நாங்கள் சிறப்பாக உதவ முடியும்.",
+    "contactName": "முழுப் பெயர்",
+    "contactEmail": "மின்னஞ்சல்",
+    "contactNumber": "எண்",
+    "contactSubject": "தலைப்பு",
+    "contactMessage": "செய்தி",
+    "contactText2": "நாங்கள் உங்களிடமிருந்து கேட்க விரும்புகிறோம்! உங்களுக்கு கேள்வி, கருத்து, அல்லது உதவி தேவைப்பட்டால் கீழ்கண்ட விருப்பங்களை பயன்படுத்தி எங்களை அணுகலாம்.",
+    "contactButton": "செய்தியை அனுப்பு",
+    "conatctMailText": "contact@earnq.in இல் எங்களை அணுகவும். நாங்கள் 24–48 மணி நேரத்தில் பதிலளிக்க முயற்சிக்கிறோம்."
+  },
+  "te": {
+    "contactTitle": "సంప్రదించండి",
+    "contactText": "దయచేసి మీ పేరు, ఇమెయిల్ మరియు సందేశంతో ఈ పేజీలో ఫారమ్‌ను పూరించండి. మీరు जितना వివరంగా ఇస్తే, మేము అంతగా సహాయం చేయగలుగుతాము.",
+    "contactName": "పూర్తి పేరు",
+    "contactEmail": "ఇమెయిల్",
+    "contactNumber": "నంబర్",
+    "contactSubject": "విషయం",
+    "contactMessage": "సందేశం",
+    "contactText2": "మేము మీ నుండి వినాలనుకుంటున్నాము! మీకు ప్రశ్న, అభిప్రాయం లేదా మద్దతు అవసరం అయితే, కింది ఎంపికలను ఉపయోగించి సంప్రదించండి.",
+    "contactButton": "సందేశం పంపండి",
+    "conatctMailText": "contact@earnq.inకి మమ్మల్ని సంప్రదించండి. మేము 24–48 గంటలలోగా స్పందించేందుకు ప్రయత్నిస్తాము."
+  },
+  "kn": {
+    "contactTitle": "ಸಂಪರ್ಕಿಸಿ",
+    "contactText": "ದಯವಿಟ್ಟು ಈ ಪುಟದ ಫಾರ್ಮ್‌ನಲ್ಲಿ ನಿಮ್ಮ ಹೆಸರು, ಇಮೇಲ್ ಮತ್ತು ಸಂದೇಶವನ್ನು ತುಂಬಿ. ನೀವು ಹೆಚ್ಚು ವಿವರಗಳನ್ನು ನೀಡಿದರೆ, ನಾವು ಉತ್ತಮವಾಗಿ ಸಹಾಯ ಮಾಡಬಹುದು.",
+    "contactName": "ಪೂರ್ಣ ಹೆಸರು",
+    "contactEmail": "ಇಮೇಲ್",
+    "contactNumber": "ನಂಬರ್",
+    "contactSubject": "ವಿಷಯ",
+    "contactMessage": "ಸಂದೇಶ",
+    "contactText2": "ನಾವು ನಿಮ್ಮಿಂದ ಕೇಳಲು ಇಚ್ಛಿಸುತ್ತೇವೆ! ನೀವು ಪ್ರಶ್ನೆ, ಪ್ರತಿಕ್ರಿಯೆ ಅಥವಾ ಬೆಂಬಲ ಬೇಕಾದರೆ, ಕೆಳಗಿನ ಆಯ್ಕೆಗಳನ್ನು ಬಳಸಿಕೊಂಡು ಸಂಪರ್ಕಿಸಬಹುದು.",
+    "contactButton": "ಸಂದೇಶ ಕಳುಹಿಸಿ",
+    "conatctMailText": "contact@earnq.in ಗೆ ಸಂಪರ್ಕಿಸಿ. ನಾವು 24–48 ಗಂಟೆಗಳ ಒಳಗೆ ಪ್ರತಿಕ್ರಿಯಿಸಲು ಯತ್ನಿಸುತ್ತೇವೆ."
+  },
+  "or": {
+    "contactTitle": "ଯୋଗାଯୋଗ କରନ୍ତୁ",
+    "contactText": "ଦୟାକରି ଏହି ପୃଷ୍ଠାରେ ଆପଣଙ୍କର ନାମ, ଇମେଲ୍ ଏବଂ ସନ୍ଦେଶ ଭରନ୍ତୁ। ଆପଣ ଯେତେ ଅଧିକ ବିବରଣୀ ଦେବେ, ଆମେ ସେତେ ଉତ୍ତମ ସହଯୋଗ କରିପାରିବୁ।",
+    "contactName": "ପୁରା ନାମ",
+    "contactEmail": "ଇମେଲ୍",
+    "contactNumber": "ନମ୍ବର",
+    "contactSubject": "ବିଷୟ",
+    "contactMessage": "ସନ୍ଦେଶ",
+    "contactText2": "ଆମେ ଆପଣଙ୍କର ମତାମତ ଶୁଣିବାକୁ ଚାହୁଁଛୁ! ଯଦି ଆପଣଙ୍କର କୌଣସି ପ୍ରଶ୍ନ, ମତାମତ କିମ୍ବା ସାହାଯ୍ୟ ଆବଶ୍ୟକ ଅଛି, ତେବେ ନିମ୍ନଲିଖିତ ବିକଳ୍ପ ଦ୍ୱାରା ଯୋଗାଯୋଗ କରନ୍ତୁ।",
+    "contactButton": "ସନ୍ଦେଶ ପଠାନ୍ତୁ",
+    "conatctMailText": "contact@earnq.in ରେ ଆମ ସହିତ ଯୋଗାଯୋଗ କରନ୍ତୁ। ଆମେ 24–48 ଘଣ୍ଟା ମଧ୍ୟରେ ପ୍ରତିକ୍ରିୟା କରିବାକୁ ଚେଷ୍ଟା କରୁଛୁ।"
+  }
+}

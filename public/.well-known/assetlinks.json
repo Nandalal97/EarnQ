@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "in.earnq.twa",
+      "sha256_cert_fingerprints": [
+        "56:2A:B3:F9:F0:27:2C:25:69:19:A9:8D:D6:05:11:E0:C7:50:87:30:76:64:3E:12:A4:C7:B6:CC:4D:37:56:66"
+      ]
+    }
+  }
+]

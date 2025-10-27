@@ -1,0 +1,202 @@
+{
+  "en": {
+    "settingTitle": "Settings",
+    "passChangeTitle": "Change Password",
+    "passChangeCurrentPass": "Current Password",
+    "passChangeNewPass": "New Password",
+    "passChangeConfirmPass": "Confirm Password",
+    "languageSetting": "Language Setting",
+    "languageList": [
+      { "code": "en", "name": "English" },
+      { "code": "hi", "name": "Hindi" },
+      { "code": "bn", "name": "Bengali" },
+      { "code": "mr", "name": "Marathi" },
+      { "code": "pa", "name": "Punjabi" },
+      { "code": "gu", "name": "Gujarati" },
+      { "code": "ta", "name": "Tamil" },
+      { "code": "te", "name": "Telugu" },
+      { "code": "kn", "name": "Kannada" },
+      { "code": "or", "name": "Odia" }
+    ]
+  },
+  "hi": {
+    "settingTitle": "सेटिंग्स",
+    "passChangeTitle": "पासवर्ड बदलें",
+    "passChangeCurrentPass": "वर्तमान पासवर्ड",
+    "passChangeNewPass": "नया पासवर्ड",
+    "passChangeConfirmPass": "पासवर्ड की पुष्टि करें",
+    "languageSetting": "भाषा सेटिंग",
+    "languageList": [
+      { "code": "en", "name": "अंग्रेज़ी" },
+      { "code": "hi", "name": "हिन्दी" },
+      { "code": "bn", "name": "बांग्ला" },
+      { "code": "mr", "name": "मराठी" },
+      { "code": "pa", "name": "पंजाबी" },
+      { "code": "gu", "name": "गुजराती" },
+      { "code": "ta", "name": "तमिल" },
+      { "code": "te", "name": "तेलुगु" },
+      { "code": "kn", "name": "कन्नड़" },
+      { "code": "or", "name": "उड़िया" }
+    ]
+  },
+  "bn": {
+    "settingTitle": "সেটিংস",
+    "passChangeTitle": "পাসওয়ার্ড পরিবর্তন করুন",
+    "passChangeCurrentPass": "বর্তমান পাসওয়ার্ড",
+    "passChangeNewPass": "নতুন পাসওয়ার্ড",
+    "passChangeConfirmPass": "পাসওয়ার্ড নিশ্চিত করুন",
+    "languageSetting": "ভাষা সেটিং",
+    "languageList": [
+      { "code": "en", "name": "ইংরেজি" },
+      { "code": "hi", "name": "হিন্দি" },
+      { "code": "bn", "name": "বাংলা" },
+      { "code": "mr", "name": "মারাঠি" },
+      { "code": "pa", "name": "পাঞ্জাবি" },
+      { "code": "gu", "name": "গুজরাটি" },
+      { "code": "ta", "name": "তামিল" },
+      { "code": "te", "name": "তেলেগু" },
+      { "code": "kn", "name": "কন্নড়" },
+      { "code": "or", "name": "ওড়িয়া" }
+    ]
+  },
+  "mr": {
+    "settingTitle": "सेटिंग्ज",
+    "passChangeTitle": "पासवर्ड बदला",
+    "passChangeCurrentPass": "सध्याचा पासवर्ड",
+    "passChangeNewPass": "नवीन पासवर्ड",
+    "passChangeConfirmPass": "पासवर्ड पुन्हा लिहा",
+    "languageSetting": "भाषा सेटिंग",
+    "languageList": [
+      { "code": "en", "name": "इंग्रजी" },
+      { "code": "hi", "name": "हिंदी" },
+      { "code": "bn", "name": "बंगाली" },
+      { "code": "mr", "name": "मराठी" },
+      { "code": "pa", "name": "पंजाबी" },
+      { "code": "gu", "name": "गुजराती" },
+      { "code": "ta", "name": "तामिळ" },
+      { "code": "te", "name": "तेलुगू" },
+      { "code": "kn", "name": "कन्नड" },
+      { "code": "or", "name": "ओडिया" }
+    ]
+  },
+  "pa": {
+    "settingTitle": "ਸੈਟਿੰਗਸ",
+    "passChangeTitle": "ਪਾਸਵਰਡ ਬਦਲੋ",
+    "passChangeCurrentPass": "ਮੌਜੂਦਾ ਪਾਸਵਰਡ",
+    "passChangeNewPass": "ਨਵਾਂ ਪਾਸਵਰਡ",
+    "passChangeConfirmPass": "ਪਾਸਵਰਡ ਪੁਸ਼ਟੀ ਕਰੋ",
+    "languageSetting": "ਭਾਸ਼ਾ ਸੈਟਿੰਗ",
+    "languageList": [
+      { "code": "en", "name": "ਅੰਗਰੇਜ਼ੀ" },
+      { "code": "hi", "name": "ਹਿੰਦੀ" },
+      { "code": "bn", "name": "ਬੰਗਾਲੀ" },
+      { "code": "mr", "name": "ਮਰਾਠੀ" },
+      { "code": "pa", "name": "ਪੰਜਾਬੀ" },
+      { "code": "gu", "name": "ਗੁਜਰਾਤੀ" },
+      { "code": "ta", "name": "ਤਮਿਲ" },
+      { "code": "te", "name": "ਤੇਲਗੂ" },
+      { "code": "kn", "name": "ਕੰਨੜ" },
+      { "code": "or", "name": "ਉੜੀਆ" }
+    ]
+  },
+  "gu": {
+    "settingTitle": "સેટિંગ્સ",
+    "passChangeTitle": "પાસવર્ડ બદલો",
+    "passChangeCurrentPass": "હાલનો પાસવર્ડ",
+    "passChangeNewPass": "નવો પાસવર્ડ",
+    "passChangeConfirmPass": "પાસવર્ડની પુષ્ટિ કરો",
+    "languageSetting": "ભાષા સેટિંગ",
+    "languageList": [
+      { "code": "en", "name": "અંગ્રેજી" },
+      { "code": "hi", "name": "હિન્દી" },
+      { "code": "bn", "name": "બંગાળી" },
+      { "code": "mr", "name": "મરાઠી" },
+      { "code": "pa", "name": "પંજાબી" },
+      { "code": "gu", "name": "ગુજરાતી" },
+      { "code": "ta", "name": "તમિલ" },
+      { "code": "te", "name": "તેલુગુ" },
+      { "code": "kn", "name": "કન્નડ" },
+      { "code": "or", "name": "ઓડિયા" }
+    ]
+  },
+  "ta": {
+    "settingTitle": "அமைப்புகள்",
+    "passChangeTitle": "கடவுச்சொல்லை மாற்றவும்",
+    "passChangeCurrentPass": "தற்போதைய கடவுச்சொல்",
+    "passChangeNewPass": "புதிய கடவுச்சொல்",
+    "passChangeConfirmPass": "கடவுச்சொல்லை உறுதிப்படுத்தவும்",
+    "languageSetting": "மொழி அமைப்பு",
+    "languageList": [
+      { "code": "en", "name": "ஆங்கிலம்" },
+      { "code": "hi", "name": "இந்தி" },
+      { "code": "bn", "name": "பெங்காலி" },
+      { "code": "mr", "name": "மராத்தி" },
+      { "code": "pa", "name": "பஞ்சாபி" },
+      { "code": "gu", "name": "குஜராத்தி" },
+      { "code": "ta", "name": "தமிழ்" },
+      { "code": "te", "name": "தெலுங்கு" },
+      { "code": "kn", "name": "கன்னடம்" },
+      { "code": "or", "name": "ஒடியா" }
+    ]
+  },
+  "te": {
+    "settingTitle": "అమరికలు",
+    "passChangeTitle": "పాస్వర్డ్ మార్చండి",
+    "passChangeCurrentPass": "ప్రస్తుత పాస్‌వర్డ్",
+    "passChangeNewPass": "కొత్త పాస్‌వర్డ్",
+    "passChangeConfirmPass": "పాస్‌వర్డ్‌ను నిర్ధారించండి",
+    "languageSetting": "భాష అమరిక",
+    "languageList": [
+      { "code": "en", "name": "ఆంగ్లం" },
+      { "code": "hi", "name": "హిందీ" },
+      { "code": "bn", "name": "బెంగాలీ" },
+      { "code": "mr", "name": "మరాఠీ" },
+      { "code": "pa", "name": "పంజాబీ" },
+      { "code": "gu", "name": "గుజరాతీ" },
+      { "code": "ta", "name": "తమిళం" },
+      { "code": "te", "name": "తెలుగు" },
+      { "code": "kn", "name": "కన్నడ" },
+      { "code": "or", "name": "ఒడియా" }
+    ]
+  },
+  "kn": {
+    "settingTitle": "ಸೆಟ್ಟಿಂಗ್‌ಗಳು",
+    "passChangeTitle": "ಗುಪ್ತಪದ ಬದಲಾಯಿಸಿ",
+    "passChangeCurrentPass": "ಪ್ರಸ್ತುತ ಪಾಸ್‌ವರ್ಡ್",
+    "passChangeNewPass": "ಹೊಸ ಪಾಸ್‌ವರ್ಡ್",
+    "passChangeConfirmPass": "ಪಾಸ್‌ವರ್ಡ್ ದೃಢೀಕರಿಸಿ",
+    "languageSetting": "ಭಾಷಾ ಸೆಟ್ಟಿಂಗ್",
+    "languageList": [
+      { "code": "en", "name": "ಇಂಗ್ಲಿಷ್" },
+      { "code": "hi", "name": "ಹಿಂದಿ" },
+      { "code": "bn", "name": "ಬಾಂಗ್ಲಾ" },
+      { "code": "mr", "name": "ಮರಾಠಿ" },
+      { "code": "pa", "name": "ಪಂಜಾಬಿ" },
+      { "code": "gu", "name": "ಗುಜರಾತಿ" },
+      { "code": "ta", "name": "ತಮಿಳು" },
+      { "code": "te", "name": "ತೆಲುಗು" },
+      { "code": "kn", "name": "ಕನ್ನಡ" },
+      { "code": "or", "name": "ಒಡಿಯಾ" }
+    ]
+  },
+  "or": {
+    "settingTitle": "ସେଟିଂସ୍",
+    "passChangeTitle": "ପାସୱାର୍ଡ ପରିବର୍ତ୍ତନ",
+    "passChangeCurrentPass": "ଏବେର ପାସୱାର୍ଡ",
+    "passChangeNewPass": "ନୂତନ ପାସୱାର୍ଡ",
+    "passChangeConfirmPass": "ପାସୱାର୍ଡ ସ୍ଥିର କରନ୍ତୁ",
+    "languageSetting": "ଭାଷା ସେଟିଂ",
+    "languageList": [
+      { "code": "en", "name": "ଇଂରାଜୀ" },
+      { "code": "hi", "name": "ହିନ୍ଦୀ" },
+      { "code": "bn", "name": "ବେଙ୍ଗାଲି" },
+      { "code": "mr", "name": "ମରାଠି" },
+      { "code": "pa", "name": "ପଞ୍ଜାବୀ" },
+      { "code": "gu", "name": "ଗୁଜୁରାଟୀ" },
+      { "code": "ta", "name": "ତାମିଲ୍" },
+      { "code": "te", "name": "ତେଲୁଗୁ" },
+      { "code": "kn", "name": "କନ୍ନଡ" },
+      { "code": "or", "name": "ଓଡିଆ" }
+    ]
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "en": {
+    "choosePlan": "Choose Your Plan",
+    "planInfo": "Check out the available plans and pick the one that fits your learning goals best. Don’t worry—if your paid plan ends, your account will automatically switch to the Free plan so you’ll still have access to basic features without any interruptions.",
+    "monthly": "Monthly",
+    "halfYearly": "Half-Yearly",
+    "yearly": "Yearly",
+    "freePlanOffer": "Free Plan Offer",
+    "freePlanDetails": "You get 1,000 free coins every month to explore all features — including asking questions, creating notes, and analyzing answers.",
+    "premiumPlanOffer": "Premium Plan Offer",
+    "premiumPlanDetails": "As a Premium user, you receive 30,000 coins every month to unlock powerful features like question solving, answer analysis, and more.",
+    "premiumPlanInstruction":[
+      "If you subscribe to the Half-Yearly plan, you'll instantly receive 180,000 coins (30,000 × 6 months).",
+      "These coins are valid throughout your subscription period and are reset with each new billing cycle.",
+      "Make the most of your subscription and stay ahead in your learning journey!"
+    ],
+    "note": "Note: Coins cannot be transferred, withdrawn, or converted to real money.",
+    "startFree": "Start Free",
+    "goPremium": "Go Premium",
+    "active": "Active",
+    "freePlanMsg": "You are currently on a Premium plan. After your subscription expires, your account will automatically switch to the Free plan.",
+    "discount": "% discount"
+  },
+  
+  "hi": {
+    "choosePlan": "अपना प्लान चुनें",
+    "planInfo": "उपलब्ध प्लानों को देखें और अपनी पढ़ाई के लक्ष्य के अनुसार सही प्लान चुनें। चिंता न करें—अगर आपका paid प्लान खत्म हो जाता है, तो आपका अकाउंट ऑटोमैटिकली फ्री प्लान में चला जाएगा ताकि आपको basic features का access हमेशा मिलता रहे।",
+    "monthly": "मंथली",
+    "halfYearly": "हाफ-ईयरली",
+    "yearly": "ईयरली",
+    "freePlanOffer": "फ्री प्लान ऑफर",
+    "freePlanDetails": "हर महीने आपको 1,000 फ्री coins मिलते हैं जिनसे आप सारे features यूज़ कर सकते हैं — जैसे सवाल पूछना, नोट्स बनाना, और आंसर analyze करना।",
+    "premiumPlanOffer": "प्रीमियम प्लान ऑफर",
+    "premiumPlanDetails": "प्रीमियम यूज़र को हर महीने 30,000 coins मिलते हैं जिससे आप सवाल सॉल्व कर सकते हैं, आंसर analysis कर सकते हैं और बहुत कुछ।",
+    "premiumPlanInstruction": [
+      "अगर आप Half-Yearly प्लान लेते हैं, तो आपको एक बार में 1,80,000 coins मिलेंगे (30,000 × 6 महीने)।",
+      "ये coins पूरे subscription period तक valid रहते हैं और हर billing cycle पर reset हो जाते हैं।",
+      "अपने subscription का पूरा फायदा उठाएं और अपनी learning में आगे बढ़ें!"
+    ],
+    "note": "नोट: Coins को ट्रांसफर, withdraw या रियल मनी में convert नहीं किया जा सकता।",
+    "startFree": "फ्री से शुरू करें",
+    "goPremium": "प्रीमियम लें",
+    "active": "एक्टिव",
+    "freePlanMsg": "आप इस समय प्रीमियम प्लान पर हैं। जैसे ही आपकी subscription खत्म होगी, आपका अकाउंट फ्री प्लान पर स्विच हो जाएगा।",
+    "discount": "% छूट"
+  },
+  "bn": {
+    "choosePlan": "আপনার প্ল্যান বেছে নিন",
+    "planInfo": "প্ল্যানগুলো দেখে নিজের লক্ষ্য অনুযায়ী সঠিক প্ল্যান বেছে নিন। চিন্তা করবেন না—আপনার পেইড প্ল্যান শেষ হয়ে গেলে অ্যাকাউন্ট স্বয়ংক্রিয়ভাবে ফ্রি প্ল্যানে চলে যাবে এবং বেসিক ফিচারস সবসময় অ্যাক্সেস করতে পারবেন।",
+    "monthly": "মাসিক",
+    "halfYearly": "ছয় মাস",
+    "yearly": "বার্ষিক",
+    "freePlanOffer": "ফ্রি প্ল্যান অফার",
+    "freePlanDetails": "প্রতি মাসে আপনি ১,০০০ ফ্রি coins পাবেন, যেগুলো দিয়ে প্রশ্ন জিজ্ঞাসা, নোট তৈরি এবং উত্তর বিশ্লেষণ করতে পারবেন।",
+    "premiumPlanOffer": "প্রীমিয়াম প্ল্যান অফার",
+    "premiumPlanDetails": "প্রীমিয়াম ইউজার হিসেবে আপনি প্রতি মাসে ৩০,০০০ coins পাবেন যা দিয়ে প্রশ্ন সলভ, বিশ্লেষণ এবং আরও অনেক কিছু করতে পারবেন।",
+    "premiumPlanInstruction": [
+      "আপনি যদি Half-Yearly প্ল্যান নেন, তাহলে একবারেই ১,৮০,০০০ coins পাবেন (৩০,০০০ × ৬ মাস)।",
+      "এই coins আপনার subscription period পর্যন্ত valid থাকবে এবং প্রতিটি billing cycle-এ reset হবে।",
+      "আপনার subscription-এর পুরো সুবিধা নিন এবং পড়াশোনায় এগিয়ে থাকুন!"
+    ],
+    "note": "নোট: Coins ট্রান্সফার, উইথড্র বা টাকা হিসেবে কনভার্ট করা যাবে না।",
+    "startFree": "ফ্রি শুরু করুন",
+    "goPremium": "প্রীমিয়াম নিন",
+    "active": "অ্যাক্টিভ",
+    "freePlanMsg": "আপনি বর্তমানে প্রিমিয়াম প্ল্যানে আছেন। সাবস্ক্রিপশন শেষ হলে আপনার অ্যাকাউন্ট অটো ফ্রি প্ল্যানে চলে যাবে।",
+    "discount": "% ছাড়"
+  },
+  "mr": {
+    "choosePlan": "तुमचा प्लान निवडा",
+    "planInfo": "उपलब्ध प्लान्स पहा आणि तुमच्या शिक्षणाच्या उद्दिष्टांनुसार योग्य प्लान निवडा. काळजी करू नका—तुमचा पेड प्लान संपल्यानंतर तुमचे अकाउंट ऑटोमॅटिक फ्री प्लानवर जाईल आणि तुम्हाला बेसिक फीचर्स मिळत राहतील.",
+    "monthly": "मासिक",
+    "halfYearly": "अर्धवार्षिक",
+    "yearly": "वार्षिक",
+    "freePlanOffer": "फ्री प्लान ऑफर",
+    "freePlanDetails": "प्रत्येक महिन्याला तुम्हाला १,००० फ्री coins मिळतात, जे वापरून तुम्ही प्रश्न विचारू शकता, नोट्स तयार करू शकता आणि उत्तराचे विश्लेषण करू शकता.",
+    "premiumPlanOffer": "प्रीमियम प्लान ऑफर",
+    "premiumPlanDetails": "प्रीमियम वापरकर्त्यांना दर महिन्याला ३०,००० coins मिळतात जे वापरून प्रश्न सोडवता येतात, उत्तराचे विश्लेषण करता येते आणि बरेच काही.",
+    "premiumPlanInstruction": [
+      "जर तुम्ही Half-Yearly प्लान घेतलात, तर तुम्हाला एकदम १,८०,००० coins मिळतील (३०,००० × ६ महिने).",
+      "हे coins पूर्ण subscription period साठी valid असतात आणि प्रत्येक billing cycle नंतर reset होतात.",
+      "तुमच्या subscription चा पूर्ण वापर करा आणि शिकण्यात आघाडीवर रहा!"
+    ],
+    "note": "नोंद: Coins ट्रान्सफर, withdraw किंवा real money मध्ये convert करता येणार नाहीत.",
+    "startFree": "फ्री सुरू करा",
+    "goPremium": "प्रीमियम घ्या",
+    "active": "सक्रिय",
+    "freePlanMsg": "सध्या तुम्ही प्रीमियम प्लानवर आहात. सबस्क्रिप्शन संपल्यानंतर, तुमचे अकाउंट ऑटोमॅटिक फ्री प्लानवर जाईल.",
+    "discount": "% सवलत"
+  },
+  "gu": {
+    "choosePlan": "તમારો પ્લાન પસંદ કરો",
+    "planInfo": "ઉપલબ્ધ પ્લાન્સ તપાસો અને તમારાં શૈક્ષણિક લક્ષ્યાંકો માટે યોગ્ય પ્લાન પસંદ કરો. ચિંતા નહીં કરો—જ્યારે તમારું પેઇડ પ્લાન ખતમ થશે ત્યારે તમારું એકાઉન્ટ ઓટોમેટિક ફ્રી પ્લાન પર સ્વિચ થઈ જશે.",
+    "monthly": "માસિક",
+    "halfYearly": "અર્ધવાર્ષિક",
+    "yearly": "વાર્ષિક",
+    "freePlanOffer": "ફ્રી પ્લાન ઓફર",
+    "freePlanDetails": "દર મહિને તમને 1000 ફ્રી coins મળશે જેમાં તમે પ્રશ્નો પુછવા, નોટ્સ બનાવવા અને આન્સર એનાલિસિસ જેવી સુવિધાઓનો ઉપયોગ કરી શકો છો.",
+    "premiumPlanOffer": "પ્રીમિયમ પ્લાન ઓફર",
+    "premiumPlanDetails": "પ્રીમિયમ યુઝર્સને દર મહિને 30,000 coins મળે છે જેથી તેઓ વધુ સારી રીતે શીખી શકે.",
+    "premiumPlanInstruction": [
+      "જો તમે Half-Yearly પ્લાન લેશો તો તમને એકસાથે 1,80,000 coins મળશે (30,000 × 6 મહિના).",
+      "આ coins તમારાં subscription પિરિયડ સુધી valid રહેશે અને દરેક billing cycle પછી reset થશે.",
+      "તમારું subscription ભરપૂર ઉપયોગ કરો અને study માં આગળ રહો!"
+    ],
+    "note": "નોટ: coins ટ્રાન્સફર, withdraw કે રિયલ પૈસામાં convert નહીં થાય.",
+    "startFree": "ફ્રી શરૂ કરો",
+    "goPremium": "પ્રીમિયમ લો",
+    "active": "એક્ટિવ",
+    "freePlanMsg": "તમે હાલમાં પ્રીમિયમ પ્લાન પર છો. જ્યારે તમારું subscription ખતમ થશે, તમારું એકાઉન્ટ ફ્રી પ્લાન પર જઈ જશે.",
+    "discount": "% ડિસ્કાઉન્ટ"
+  },
+  "pa": {
+    "choosePlan": "ਆਪਣਾ ਪਲੈਨ ਚੁਣੋ",
+    "planInfo": "ਉਪਲਬਧ plans ਵੇਖੋ ਅਤੇ ਆਪਣੀਆਂ ਲਰਨਿੰਗ ਜ਼ਰੂਰਤਾਂ ਮੁਤਾਬਕ ਚੰਗਾ ਪਲੈਨ ਚੁਣੋ। ਫਿਕਰ ਨਾ ਕਰੋ—ਜੇ ਤੁਹਾਡਾ paid plan ਖਤਮ ਹੋ ਜਾਂਦਾ ਹੈ ਤਾਂ account ਆਪੇ ਹੀ ਫ੍ਰੀ plan 'ਚ ਚਲਾ ਜਾਏਗਾ।",
+    "monthly": "ਮਾਸਿਕ",
+    "halfYearly": "ਅੱਧਾ ਸਾਲ",
+    "yearly": "ਸਾਲਾਨਾ",
+    "freePlanOffer": "ਫ੍ਰੀ ਪਲੈਨ ਆਫਰ",
+    "freePlanDetails": "ਤੁਹਾਨੂੰ ਹਰ ਮਹੀਨੇ 1,000 ਫ੍ਰੀ coins ਮਿਲਦੇ ਨੇ — ਜਿਨ੍ਹਾਂ ਨਾਲ ਤੁਸੀਂ ਸਵਾਲ ਪੁੱਛ ਸਕਦੇ ਹੋ, ਨੋਟਸ ਬਣਾ ਸਕਦੇ ਹੋ ਅਤੇ ਉਤਰਾਂ ਦਾ ਵਿਸ਼ਲੇਸ਼ਣ ਕਰ ਸਕਦੇ ਹੋ।",
+    "premiumPlanOffer": "ਪ੍ਰੀਮੀਅਮ ਪਲੈਨ ਆਫਰ",
+    "premiumPlanDetails": "ਪ੍ਰੀਮੀਅਮ ਯੂਜ਼ਰ ਨੂੰ ਹਰ ਮਹੀਨੇ 30,000 coins ਮਿਲਦੇ ਹਨ ਜੋ ਅਕਸਰ ਸਵਾਲ ਹੱਲ ਕਰਨ, ਵਿਸ਼ਲੇਸ਼ਣ ਅਤੇ ਹੋਰ ਲਈ ਵਰਤੇ ਜਾਂਦੇ ਹਨ।",
+    "premiumPlanInstruction": [
+      "ਜੇ ਤੁਸੀਂ Half-Yearly ਪਲੈਨ ਲੈਂਦੇ ਹੋ, ਤਾਂ ਤੁਹਾਨੂੰ ਇਕ ਵਾਰੀ 'ਚ 1,80,000 coins ਮਿਲਣਗੇ (30,000 × 6 ਮਹੀਨੇ)।",
+      "ਇਹ coins ਤੁਹਾਡੇ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਸਮੇਂ ਤੱਕ valid ਰਹਿਣਗੇ ਅਤੇ ਹਰ ਨਵੇਂ billing cycle 'ਚ reset ਹੋ ਜਾਣਗੇ।",
+      "ਆਪਣੇ plan ਦਾ ਪੂਰਾ ਲਾਭ ਚੱਕੋ ਅਤੇ ਆਪਣੀ learning ਨੂੰ next level 'ਤੇ ਲੈ ਜਾਓ!"
+    ],
+    "note": "ਨੋਟ: Coins ਨਾ ਤਾ transfer ਹੋ ਸਕਦੇ, ਨਾ withdraw ਹੋ ਸਕਦੇ ਅਤੇ ਨਾ ਹੀ ਰਿਅਲ ਪੈਸੇ ਵਿਚ badal ਸਕਦੇ।",
+    "startFree": "ਫ੍ਰੀ ਸ਼ੁਰੂ ਕਰੋ",
+    "goPremium": "ਪ੍ਰੀਮੀਅਮ ਲਵੋ",
+    "active": "ਐਕਟਿਵ",
+    "freePlanMsg": "ਤੁਸੀਂ ਹੁਣੇ ਪ੍ਰੀਮੀਅਮ ਪਲੈਨ 'ਤੇ ਹੋ। ਜਦ ਸਬਸਕ੍ਰਿਪਸ਼ਨ ਖਤਮ ਹੋਵੇਗਾ, ਤੁਸੀਂ ਆਟੋਮੈਟਿਕ ਫ੍ਰੀ ਪਲੈਨ 'ਤੇ ਚਲੇ ਜਾਓਗੇ।",
+    "discount": "% ਛੂਟ"
+  }
+}
+

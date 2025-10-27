@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Free",
+    "basePrice": 0,
+    "discounts": {
+      "Monthly": 0,
+      "Quarterly": 0,
+      "Half-Yearly": 0,
+      "Yearly": 0
+    },
+    "features": ["50 questions/month", "Basic access", "Ad-supported"],
+    "button": "Start Free"
+  },
+  {
+    "name": "Pro",
+    "basePrice": 99,
+    "discounts": {
+      "Monthly": 0,
+      "Quarterly": 0.1,
+      "Half-Yearly": 0.15,
+      "Yearly": 0.25
+    },
+    "features": ["250 questions/month", "Priority support", "No ads"],
+    "button": "Subscribe Now"
+  },
+  {
+    "name": "Premium",
+    "basePrice": 149,
+    "discounts": {
+      "Monthly": 0,
+      "Quarterly": 0.1,
+      "Half-Yearly": 0.15,
+      "Yearly": 0.25
+    },
+    "features": ["Unlimited questions", "Advanced analytics", "Early access to new features"],
+    "button": "Go Premium"
+  }
+]

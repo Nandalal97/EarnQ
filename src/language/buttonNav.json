@@ -1,0 +1,82 @@
+{
+  "en": {
+    "home": "Home",
+    "subjects": "Subjects",
+    "quiz": "Quiz",
+    "wallet": "Wallet",
+    "contest": "cotest",
+    "books": "books"
+  },
+  "hi": {
+    "home": "होम",
+    "subjects": "विषय",
+    "quiz": "प्रश्नोत्तरी",
+    "wallet": "वॉलेट",
+    "contest": "प्रतियोगिता",
+      "books": "किताबें"
+  },
+  "bn": {
+    "home": "হোম",
+    "subjects": "বিষয়সমূহ",
+    "quiz": "কুইজ",
+    "wallet": "ওয়ালেট",
+    "contest": "প্রতিযোগিতা",
+      "books": "বই"
+  },
+  "mr": {
+    "home": "मुख्यपृष्ठ",
+    "subjects": "विषय",
+    "quiz": "प्रश्नमंजुषा",
+    "wallet": "पाकीट",
+    "contest": "स्पर्धा",
+      "books": "पुस्तके"
+  },
+  "gu": {
+    "home": "હોમ",
+    "subjects": "વિષયો",
+    "quiz": "પ્રશ્નોત્તરી",
+    "wallet": "વૉલેટ",
+    "contest": "સ્પર્ધા",
+      "books": "પુસ્તકો"
+  },
+  "pa": {
+    "home": "ਘਰ",
+    "subjects": "ਵਿਸ਼ੇ",
+    "quiz": "ਕਵਿਜ਼",
+    "wallet": "ਵਾਲਿਟ",
+    "contest": "ਮੁਕਾਬਲਾ",
+      "books": "ਕਿਤਾਬਾਂ"
+  },
+  "kn": {
+    "home": "ಮುಖಪುಟ",
+    "subjects": "ವಿಷಯಗಳು",
+    "quiz": "ಪ್ರಶ್ನೋತ್ತರ",
+    "wallet": "ವಾಲೆಟ್",
+    "contest": "ಸ್ಪರ್ಧೆ",
+      "books": "పుస్తకాలు"
+  },
+  "ta": {
+    "home": "முகப்பு",
+    "subjects": "பொருள்கள்",
+    "quiz": "வினாடி வினா",
+    "wallet": "பணப்பை",
+    "contest": "போட்டி",
+      "books": "புத்தகங்கள்"
+  },
+  "te": {
+    "home": "హోమ్",
+    "subjects": "విషయాలు",
+    "quiz": "ప్రశ్నోత్తరాలు",
+    "wallet": "వాలెట్",
+    "contest": "పోటీ",
+      "books": "పుస్తకాలు"
+  },
+  "or": {
+    "home": "ମୂଳପୃଷ୍ଠା",
+    "subjects": "ବିଷୟଗୁଡ଼ିକ",
+    "quiz": "ପ୍ରଶ୍ନୋତ୍ତର",
+    "wallet": "ୱାଲେଟ୍",
+    "contest": "ପ୍ରତିଯୋଗିତା",
+    "books": "ପୁସ୍ତକ"
+  }
+}

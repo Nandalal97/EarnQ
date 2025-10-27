@@ -1,0 +1,103 @@
+{
+    "en":{
+        "feedbackTtile":"We Value Your Feedback",
+        "feedbackText":"Please provide your details and feedback to help us improve.",
+        "feedbackName":"Your Full Name",
+        "feedbackPhone":"Phone Number",
+        "feedbackEmail":"Email",
+        "feedbackMessage":"Your message...",
+        "feedbackRating":"Rating",
+        "feedbackButton":"Submit Feedback"
+    },
+    
+  "hi": {
+    "feedbackTtile": "हम आपकी प्रतिक्रिया को महत्व देते हैं",
+    "feedbackText": "कृपया सुधार में मदद के लिए अपनी जानकारी और प्रतिक्रिया दें।",
+    "feedbackName": "आपका पूरा नाम",
+    "feedbackPhone": "फोन नंबर",
+    "feedbackEmail": "ईमेल",
+    "feedbackMessage": "आपका संदेश...",
+    "feedbackRating": "रेटिंग",
+      "feedbackButton": "प्रतिक्रिया करें"
+  },
+  "bn": {
+    "feedbackTtile": "আমরা আপনার মতামতকে গুরুত্ব দিই",
+    "feedbackText": "দয়া করে আমাদের উন্নত করতে আপনার বিবরণ এবং মতামত দিন।",
+    "feedbackName": "আপনার পূর্ণ নাম",
+    "feedbackPhone": "ফোন নম্বর",
+    "feedbackEmail": "ইমেল",
+    "feedbackMessage": "আপনার বার্তা...",
+    "feedbackRating": "রেটিং",
+    "feedbackButton": "মতামত দিন"
+  },
+  "mr": {
+    "feedbackTtile": "आम्ही तुमच्या अभिप्रायाला महत्त्व देतो",
+    "feedbackText": "कृपया सुधारण्यासाठी तुमचा तपशील आणि अभिप्राय द्या.",
+    "feedbackName": "तुमचं पूर्ण नाव",
+    "feedbackPhone": "फोन नंबर",
+    "feedbackEmail": "ईमेल",
+    "feedbackMessage": "तुमचा संदेश...",
+    "feedbackRating": "रेटिंग",
+        "feedbackButton": "अभिप्राय करा"
+  },
+  "ta": {
+    "feedbackTtile": "உங்கள் கருத்துகளை மதிக்கிறோம்",
+    "feedbackText": "மேம்படுத்த உங்கள் விவரங்களை மற்றும் கருத்துகளை வழங்கவும்.",
+    "feedbackName": "உங்கள் முழு பெயர்",
+    "feedbackPhone": "தொலைபேசி எண்",
+    "feedbackEmail": "மின்னஞ்சல்",
+    "feedbackMessage": "உங்கள் செய்தி...",
+    "feedbackRating": "மதிப்பீடு",
+     "feedbackButton": "கருத்தை சமர்ப்பிக்கவும்"
+  },
+  "te": {
+    "feedbackTtile": "మీ అభిప్రాయాన్ని మేము மதిస్తాము",
+    "feedbackText": "దయచేసి మెరుగుపరచడంలో సహాయపడేందుకు మీ వివరాలు మరియు అభిప్రాయాన్ని ఇవ్వండి.",
+    "feedbackName": "మీ పూర్తి పేరు",
+    "feedbackPhone": "ఫోన్ నంబర్",
+    "feedbackEmail": "ఇమెయిల్",
+    "feedbackMessage": "మీ సందేశం...",
+    "feedbackRating": "రేటింగ్",
+    "feedbackButton": "ఫీడ్‌బ్యాక్‌ను సమర్పించండి"
+  },
+  "pa": {
+    "feedbackTtile": "ਅਸੀਂ ਤੁਹਾਡੇ ਫੀਡਬੈਕ ਦੀ ਕਦਰ ਕਰਦੇ ਹਾਂ",
+    "feedbackText": "ਕਿਰਪਾ ਕਰਕੇ ਸੁਧਾਰ ਲਈ ਆਪਣੀ ਜਾਣਕਾਰੀ ਅਤੇ ਫੀਡਬੈਕ ਦਿਓ।",
+    "feedbackName": "ਤੁਹਾਡਾ ਪੂਰਾ ਨਾਮ",
+    "feedbackPhone": "ਫ਼ੋਨ ਨੰਬਰ",
+    "feedbackEmail": "ਈਮੇਲ",
+    "feedbackMessage": "ਤੁਹਾਡਾ ਸੰਦੇਸ਼...",
+    "feedbackRating": "ਰੇਟਿੰਗ",
+     "feedbackButton": "ਫੀਡਬੈਕ ਜਮ੍ਹਾਂ ਕਰੋ"
+  },
+  "gu": {
+    "feedbackTtile": "અમે તમારાં પ્રતિસાદને મહત્વ આપીએ છીએ",
+    "feedbackText": "કૃપા કરીને સુધાર માટે તમારું વિગતવાર માહિતી અને પ્રતિસાદ આપો.",
+    "feedbackName": "તમારું પૂરું નામ",
+    "feedbackPhone": "ફોન નંબર",
+    "feedbackEmail": "ઈમેઈલ",
+    "feedbackMessage": "તમારું સંદેશ...",
+    "feedbackRating": "રેન્કિંગ",
+     "feedbackButton": "પ્રતિસાદ સબમિટ કરો"
+  },
+  "or": {
+    "feedbackTtile": "ଆମେ ଆପଣଙ୍କର ପ୍ରତିକ୍ରିୟାକୁ ମୂଲ୍ୟ ଦିଅୁଛୁ",
+    "feedbackText": "ଦୟାକରି ଆମକୁ ଉନ୍ନତି କରିବାରେ ସାହାଯ୍ୟ କରିବା ପାଇଁ ଆପଣଙ୍କର ବିବରଣୀ ଓ ପ୍ରତିକ୍ରିୟା ଦିଅନ୍ତୁ।",
+    "feedbackName": "ଆପଣଙ୍କର ପୂର୍ଣ୍ଣ ନାମ",
+    "feedbackPhone": "ଫୋନ ନମ୍ବର",
+    "feedbackEmail": "ଇମେଲ୍",
+    "feedbackMessage": "ଆପଣଙ୍କର ବାର୍ତ୍ତା...",
+    "feedbackRating": "ମୂଲ୍ୟାଙ୍କନ",
+      "feedbackButton": "ମତାମତ ଦାଖଲ କରନ୍ତୁ"
+  },
+  "kn": {
+    "feedbackTtile": "ನಾವು ನಿಮ್ಮ ಪ್ರತಿಕ್ರಿಯೆಯನ್ನು ಮೌಲ್ಯಮಾಪನ ಮಾಡುತ್ತೇವೆ",
+    "feedbackText": "ದಯವಿಟ್ಟು ನಿಮ್ಮ ವಿವರಗಳು ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ, ಇದು ಸುಧಾರಣೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.",
+    "feedbackName": "ನಿಮ್ಮ ಪೂರ್ಣ ಹೆಸರು",
+    "feedbackPhone": "ದೂರವಾಣಿ ಸಂಖ್ಯೆ",
+    "feedbackEmail": "ಇಮೇಲ್",
+    "feedbackMessage": "ನಿಮ್ಮ ಸಂದೇಶ...",
+    "feedbackRating": "ಮೌಲ್ಯಮಾಪನ",
+    "feedbackButton": "ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಿ"
+  }
+}
