@@ -139,9 +139,9 @@ EarnQ isn’t just about learning — it’s also about **real earning**.
 ## 👨‍💻 Developer Info
 
 👤 **Developer:** Nandalal Majhi  
-🌐 **Website:** [https://earnq.in](https://earnq.in)  
-📧 **Email:** your@email.com  
-💼 **GitHub:** [https://github.com/your-username](https://github.com/your-username)  
+🌐 **Website:** [https://mnandalal.in](https://mnandalal.in)  
+📧 **Email:** developer.nandalal@email.com  
+💼 **GitHub:** [https://github.com/your-username](https://github.com/Nandalal9)  
 
 ---
 
